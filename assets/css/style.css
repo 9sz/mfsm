@@ -1027,13 +1027,6 @@ section {
   text-align: center;
 }
 
-#footer .credits {
-  padding-top: 10px;
-  text-align: center;
-  font-size: 13px;
-  color: #ccc;
-}
-
 #footer .socials {
   text-align: center;
   font-size: 30px;
@@ -1046,19 +1039,6 @@ section {
 }
 
 #footer .socials a:hover, a:active, a:focus {
-  color: #03c5ec;
-  outline: none;
-  text-decoration: none;
-}
-
-#footer .credits a {
-  padding-top: 10px;
-  text-align: center;
-  font-size: 13px;
-  color: #ccc;
-}
-
-#footer .credits a:hover, a:active, a:focus {
   color: #03c5ec;
   outline: none;
   text-decoration: none;
