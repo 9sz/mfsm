@@ -483,6 +483,7 @@ section {
 
 .about-img:hover {
   opacity: 50%;
+  border: blue;
 }
 
 @media (max-width: 768px) {
