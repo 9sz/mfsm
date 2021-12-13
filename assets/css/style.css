@@ -481,6 +481,10 @@ section {
   max-width: 100%;
 }
 
+#about .about-img img:hover {
+  opacity: 50%;
+}
+
 @media (max-width: 768px) {
   #about .about-img {
     height: auto;
