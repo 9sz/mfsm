@@ -166,13 +166,13 @@ h1, h2, h3, h4, h5, h6 {
 #hero .btn-get-started {
   background: #3DEBE1;
   border: 2px solid #3DEBE1;
-  color: #B1B1B1;
+  color: #0A0708;
 }
 
 #hero .btn-get-started:hover {
   background: none;
   border: 2px solid #B1B1B1;
-  color: #B1B1B1;
+  color: #0A0708;
 }
 
 #hero .btn-services {
