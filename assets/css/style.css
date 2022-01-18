@@ -61,13 +61,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top i {
   font-size: 28px;
-  color: #fff;
+  color: #0A0708;
   line-height: 0;
 }
 
 .back-to-top:hover {
-  background: #3DEBE1;
-  color: #fff;
+  background: #B1B1B1;
+  color: #0A0708;
 }
 
 .back-to-top.active {
@@ -612,6 +612,7 @@ section {
 #subscribe .subscribe-btn:hover {
   background: #3DEBE1;
   border: 2px solid #3DEBE1;
+  color: #0A0708;
 }
 
 /* Portfolio Section
