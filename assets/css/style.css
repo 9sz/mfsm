@@ -2,7 +2,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background: #0A0708;
+  background: #03C4EB;
   color: #B1B1B1;
   font-family: "Open Sans", sans-serif;
 }
@@ -189,7 +189,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #0d0d0d;
+  background: #03C4EB;
   transition: all 0.5s;
   z-index: 997;
   height: 70px;
@@ -616,7 +616,7 @@ section {
 /* Portfolio Section
 --------------------------------*/
 #portfolio {
-  background: #fff;
+  background: #03C4EB;
   padding: 80px 0;
 }
 
@@ -874,7 +874,7 @@ section {
 /* Contact Section
 --------------------------------*/
 #contact {
-  background: #f7f7f7;
+  background: #03C4EB;
   padding: 80px 0 120px 0;
 }
 
