@@ -262,7 +262,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px 0 10px 30px;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
-  color: #fff;
+  color: #0A0708;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -274,7 +274,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #03C4EB;
+  color: #444444;
 }
 
 .navbar .dropdown ul {
@@ -616,7 +616,7 @@ section {
 /* Portfolio Section
 --------------------------------*/
 #portfolio {
-  background: #03C4EB;
+  background: #0A0708;
   padding: 80px 0;
 }
 
@@ -874,7 +874,7 @@ section {
 /* Contact Section
 --------------------------------*/
 #contact {
-  background: #03C4EB;
+  background: #0A0708;
   padding: 80px 0 120px 0;
 }
 
