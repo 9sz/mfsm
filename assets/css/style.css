@@ -518,7 +518,7 @@ section {
 /* Services Section
 --------------------------------*/
 #services {
-  background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url("../img/services-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(10, 7, 8, 0.8), rgba(10, 7, 8, 0.8)), url("../img/services-bg.jpg") fixed center center;
   background-size: cover;
   padding: 80px 0 60px 0;
 }
@@ -541,7 +541,7 @@ section {
 }
 
 #services .service-icon i {
-  color: #fff;
+  color: #0A0708;
   font-size: 24px;
   line-height: 0;
 }
