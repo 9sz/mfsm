@@ -114,7 +114,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 48px;
   text-transform: uppercase;
-  color: #fff;
+  color: #B1B1B1;
 }
 
 @media (max-width: 768px) {
@@ -274,7 +274,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #747474;
+  color: #03C4EB;
 }
 
 .navbar .dropdown ul {
@@ -551,7 +551,7 @@ section {
 }
 
 #services .service-item:hover .service-icon i {
-  color: #03C4EB;
+  color: #0A0708;
 }
 
 #services .service-title {
