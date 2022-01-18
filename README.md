@@ -1,2 +1,2 @@
 # website
-O meu website, porém com um domínio mais "clean" https://www.mfsm.ga/
+O meu website, porém com um domínio mais "clean" https://www.mfsm.tk/
