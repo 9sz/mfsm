@@ -557,9 +557,9 @@ section {
 
 #services .service-title {
   margin-left: 80px;
-  font-weight: 0;
   margin-bottom: 15px;
   text-transform: uppercase;
+  margin: 15px 1px 0px 80px;
 }
 
 #services .service-title a {
