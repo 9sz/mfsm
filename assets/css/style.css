@@ -469,7 +469,7 @@ section {
 /* Get Started Section
 --------------------------------*/
 #about {
-  background: #fff;
+  background: #0A0708;
   padding: 80px 0;
 }
 
@@ -497,11 +497,11 @@ section {
 }
 
 #about .about-content {
-  background: #fff;
+  background: #0A0708;
 }
 
 #about .about-title {
-  color: #333;
+  color: #B1B1B1;
   font-weight: 700;
   font-size: 28px;
 }
