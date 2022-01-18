@@ -189,7 +189,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #03C4EB;
+  background: #111;
   transition: all 0.5s;
   z-index: 997;
   height: 70px;
@@ -262,7 +262,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px 0 10px 30px;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
-  color: #0A0708;
+  color: #B1B1B1;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -274,7 +274,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #444444;
+  color: #747474;
 }
 
 .navbar .dropdown ul {
