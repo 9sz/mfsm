@@ -557,7 +557,7 @@ section {
 
 #services .service-title {
   margin-left: 80px;
-  font-weight: 700;
+  font-weight: 0;
   margin-bottom: 15px;
   text-transform: uppercase;
 }
@@ -566,10 +566,6 @@ section {
   color: #111;
 }
 
-#services .service-description {
-  margin-left: 80px;
-  line-height: 24px;
-}
 
 /* Subscribe Section
 --------------------------------*/
