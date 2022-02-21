@@ -83,7 +83,7 @@
 
     <!-- ======= About Section ======= -->
     <section id="about">
-      <div class="container wow fadeInUp">
+      <div class="container wow fadeInUp reveal">
         <div class="row">
           <div class="col-md-12">
             <h3 class="section-title">Sobre Mim</h3>
@@ -129,7 +129,7 @@
 
     <!-- ======= Services Section ======= -->
     <section id="services">
-      <div class="container wow fadeInUp">
+      <div class="container wow fadeInUp reveal">
         <div class="row">
           <div class="col-md-12">
             <h3 class="section-title">Aptidões</h3>
@@ -341,7 +341,7 @@
     </section><!-- End Portfolio Section -->
 
     <!-- ======= Contact Section ======= -->
-    <section id="contact">
+    <section id="contact reveal">
       <div class="container wow fadeInUp">
         <div class="row">
           <div class="col-md-12">
@@ -418,6 +418,27 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+  <script type="text/javascript">
+    window.addEventListener('scroll', reveal);
+
+    function reveal(){
+      var reveals = document.querySelectorAll('.reveal');
+
+      for(var i = 0; i < reveals.length; i++){
+
+        var windowheight = window.innerHeight;
+        var revealtop = reveals[i].getBoundingClientRect().top;
+        var revealpoint = 150;
+
+        if(revealtop < windowheight - revealpoint){
+          reveals[i].classList.add('active');
+        }
+        else{
+          reveals[i].classList.remove('active');
+        }
+      }
+    }
+    </script>
 
 </body>
 </html>
